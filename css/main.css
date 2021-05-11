@@ -26,8 +26,8 @@ a.nav-link.py-3.nav-link.active{
 
 /* Social media buttons color */
 .social-media p a {
-    width: 30px;
-    height: 30px;
+    width: 50px;
+    height: 50px;
     border-radius: 50%;
     margin-right: 4px;
     background: rgba(255, 255, 255, 0.1);
@@ -36,6 +36,10 @@ a.nav-link.py-3.nav-link.active{
 
 .owl-carousel.home-slider .slider-item .slider-text h2 {
     color: #ffc107;
+}
+
+.bg-white {
+    height: 87%;
 }
 
 
