@@ -104,5 +104,10 @@ a.nav-link.py-3.nav-link.active{
   }
 
 
+  .tabulation .nav-pills .nav-item .nav-link img {
+    width: 28px;
+    height: 28px;
+}
+
 
 
