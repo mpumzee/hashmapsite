@@ -1,0 +1,25 @@
+#logo{
+    width: 300px;
+    margin-top: 0!important;
+}
+
+.bg-primary {
+    background: #007bff !important;
+}
+
+.tabulation-2.nav-pills .nav-item .nav-link.active {
+    color: rgb(255, 255, 255);
+    background:#007bff !important;
+}
+
+li.nav-item.active{
+    background:#007bff !important;
+}
+
+a.nav-link.py-3.nav-link.active{
+    background:#007bff !important;
+}
+
+.ftco-counter{
+    background:#007bff !important;
+}
